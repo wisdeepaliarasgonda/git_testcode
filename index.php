@@ -1,7 +1,4 @@
 <?php
-echo "Hello Deepali";
+echo "deepali";
 
-phpinfo();
-
-echo "hello after test";
 ?>
