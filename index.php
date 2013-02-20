@@ -1,5 +1,5 @@
 <?php
 echo "Hello Deepali";
 
-phpinfo();
+phpinfo(); echo "hhhhh";
 ?>
